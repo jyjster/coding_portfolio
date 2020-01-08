@@ -45,6 +45,7 @@ https://github.com/jyjster/coding_portfolio/tree/master/Art%20%26%26%20Code%20%2
 
 #### 3. Code Poetry: Life Changes
 
+
 I wrote a poem in Python titled life_changes about the chaos theory in relation to changes in one's lifetime. When executed, code generates an unique fractal tree.
 
 What is a code poem?
