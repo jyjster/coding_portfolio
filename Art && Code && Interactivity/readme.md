@@ -18,16 +18,19 @@ Date: Fall, 2019
 
 Course Abstract: Art && Code && Interactivity is primarily concerned with: learning how to build any interactive experience artwork from concept to completion and stretching the definition of art and the definition of code.
 
-#### 1. Graphics && Sound
+
+#### 1. Graphics && Sound: Soundscape Map
 
 I created a digital map of the soundscapes of the Poestenskill Canal and Hudson River located in South Troy and South Central Troy, NY. 
 
 By capturing and sharing sounds in theese spaces, this project aims to enage people in such public spaces, which are inaccessible to and disconnected from surrounding communtiies and don't feel very "public" at all.
 
+https://github.com/jyjster/coding_portfolio/tree/master/Art%20%26%26%20Code%20%26%26%20Interactivity/Graphics_Sound_002
+
 [Language: C++ | Toolkit: open-source toolkit openFrameworks | IDE: Xcode]
 
 
-#### 2. Camera
+#### 2. Camera: Virtual Graffiti Wall
 
 I created a virtual graffiti wall. This interactive experience artwork creates graffiti art using a computer vision system and color tracking.
 
@@ -40,7 +43,7 @@ https://github.com/jyjster/coding_portfolio/tree/master/Art%20%26%26%20Code%20%2
 [Language: C++ | Toolkit: openFrameworks | IDE: Xcode]
 
 
-#### 3. Code Poetry
+#### 3. Code Poetry: Life Changes
 
 I wrote a poem in Python titled life_changes about the chaos theory in relation to changes in one's lifetime. When executed, code generates an unique fractal tree.
 
@@ -50,12 +53,16 @@ What is a code poem?
 3. It must run -- is a valid computer program which produces a
 representation of itself when compiled and run
 
+https://github.com/jyjster/coding_portfolio/tree/master/Art%20%26%26%20Code%20%26%26%20Interactivity/Code_Poetry_003
+
 [Language: Python 3 | IDE: Wing 101]
 
-#### 4. Code Poetry Book
+#### 4. Code Poetry Book : 54-page Publication
 
 A published collection of all code poems completed by the students of Shawn Lawson's Art && Code && Interactivity Fall 2019 course at Rensselaer Polytechnic Institute.
 
 I designed and co-edited the publication with Boyuan Zheng. We  truncated the code to emphasize its poetic nature in analog form. We also modified the the output of each poem for translation from a digital (computer) to analog (physical book) and for visual appeal.
+
+https://github.com/jyjster/coding_portfolio/tree/master/Art%20%26%26%20Code%20%26%26%20Interactivity/Code_Poetry_Book_004
 
 [Created using Adobe Indesign.]
