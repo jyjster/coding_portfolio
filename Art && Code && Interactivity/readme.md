@@ -4,7 +4,7 @@ collection of project work from Fall 2019 ACI course
 
 stretching art and code through interactive experience artwork
 
-### Course Outcomes:
+### Course Outcomes
 
 1. Create interactive experiences with OpenFrameworks
 2. Break down a conceptual idea into manageable technical parts
@@ -18,6 +18,7 @@ Date: Fall, 2019
 
 Course Abstract: Art && Code && Interactivity is primarily concerned with: learning how to build any interactive experience artwork from concept to completion and stretching the definition of art and the definition of code.
 
+### Projects
 
 #### 1. Graphics && Sound: Soundscape Map
 
