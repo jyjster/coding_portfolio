@@ -35,6 +35,8 @@ By tracking the top of a water bottle representing a spray pain can and using a 
 
 The canvas background resembles the southwest facade of EMPAC building at RPI. This background was chosen because of the current tensions among students and the RPI adminstration concerning student rights and freedom, control, surveillance, censorship, and protests.
 
+https://github.com/jyjster/coding_portfolio/tree/master/Art%20%26%26%20Code%20%26%26%20Interactivity/Camera_001
+
 [Language: C++ | Toolkit: openFrameworks | IDE: Xcode]
 
 
