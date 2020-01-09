@@ -4,20 +4,6 @@ collection of project work from Fall 2019 ACI course
 
 stretching art and code through interactive experience artwork
 
-### Course Outcomes
-
-1. Create interactive experiences with OpenFrameworks
-2. Break down a conceptual idea into manageable technical parts
-3. Solve a project’s unknown, unknowns
-
-### About Course
-
-ARTS 4090 | https://github.com/aci-f19-org
-Professor: Shawn Lawson | https://github.com/shawnlawson
-Date: Fall, 2019
-
-Course Abstract: Art && Code && Interactivity is primarily concerned with: learning how to build any interactive experience artwork from concept to completion and stretching the definition of art and the definition of code.
-
 ### Projects
 
 #### 1. Graphics && Sound: Soundscape Map
@@ -70,3 +56,17 @@ I designed and co-edited the publication with Boyuan Zheng. We  truncated the co
 https://github.com/jyjster/coding_portfolio/tree/master/Art%20%26%26%20Code%20%26%26%20Interactivity/Code_Poetry_Book_004
 
 [Created using Adobe Indesign.]
+
+### Course Outcomes
+
+1. Create interactive experiences with OpenFrameworks
+2. Break down a conceptual idea into manageable technical parts
+3. Solve a project’s unknown, unknowns
+
+### About Course
+
+ARTS 4090 | https://github.com/aci-f19-org
+Professor: Shawn Lawson | https://github.com/shawnlawson
+Date: Fall, 2019
+
+Course Abstract: Art && Code && Interactivity is primarily concerned with: learning how to build any interactive experience artwork from concept to completion and stretching the definition of art and the definition of code.
