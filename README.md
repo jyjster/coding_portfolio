@@ -7,7 +7,7 @@ a collection of project work from Spring 2019 CS1 course and additional Humaniti
 
 writing computer programs that challenge the modularity and logic of programming with human values and complex, real-world phenomena
 
-example projects: 
+example projects: allocating budget funds to counties based on NY health data, 
 
 
 ## Art && Code && Interactivity 
