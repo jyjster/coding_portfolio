@@ -1,4 +1,4 @@
-# coding_portfolio
+# Jordany Y. Jackson | coding_portfolio
 
 
 ## CompSci I & Humanities
