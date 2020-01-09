@@ -22,6 +22,8 @@ Course Abstract: Art && Code && Interactivity is primarily concerned with: learn
 
 #### 1. Graphics && Sound: Soundscape Map
 
+https://vimeo.com/383862736
+
 I created a digital map of the soundscapes of the Poestenskill Canal and Hudson River located in South Troy and South Central Troy, NY. 
 
 By capturing and sharing sounds in theese spaces, this project aims to enage people in such public spaces, which are inaccessible to and disconnected from surrounding communtiies and don't feel very "public" at all.
