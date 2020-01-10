@@ -2,8 +2,6 @@ HOMEWORK 6: Parsing Files & Sets
 
 NAME:  Jordan Jackson
 
-ESTIMATE OF # OF HOURS SPENT ON THIS ASSIGNMENT:  6
-
 -----------------
 
 
@@ -83,7 +81,7 @@ close proximation or adjacent words (e.g. "hate" + gender).
 -----------------
 
 QUESTION 3: What are kinds of bias that this sentiment analysis would fail to
-pick up? In your response, consider some of the overlapping kinds of ìtextsî 
+pick up? In your response, consider some of the overlapping kinds of ‚Äútexts‚Äù 
 that are a part of digital objects, such as readable text, metatags, images, 
 and links.
 
@@ -103,12 +101,9 @@ the sentiment analysis is programmed to test on may introduce bias.
 -----------------
 
 MISC. COMMENTS TO GRADER:  
-Optional, please be concise!
 
 For analysis #7 (if there positive/negative word matches in the headline), I chose to print a qualitative result (positive, neutral, or negative) because I thought this measure would be more helpful to the reviewer of analysis results, as opposed to True/False or the number of positive/negative words.
 
 Feedback on assignment: I wish we had a bit more freedom on this assignment. Perhaps, you could include 3 specific analyses we have to preform, then a certain number of quantitative and and qualitative analyses of our choice (then explaining our choices in the ReadMe.txt.
-
-The assignment sheet says we need to answer each of the questions in 2-3 paragraphs! I'm not sure how to write this much about some of the questions. 
 
 
