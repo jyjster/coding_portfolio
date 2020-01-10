@@ -1,0 +1,235 @@
+3.7.1 (default, Dec 14 2018, 13:28:58) 
+[Clang 4.0.1 (tags/RELEASE_401/final)]
+Python Type "help", "copyright", "credits" or "license" for more information.
+[evaluate hw6Part1.py]
+Headline: Remarks by President Trump to the 73rd Session of the United Nations General Assembly
+Author(s): Donald J. Trump
+Source: whitehouse.gov
+Length of article (words): 3605
+
+Positive word count: 115
+Negative word count: 94
+
+Percentage of article is unique words: 32%
+Percentage of unique words in article that are positive: 9.9%
+Percentage of unique words in article that are negative: 8.1%
+
+Percentage of all words in article that are positive: 5.4%
+Percentage of all words in article that are negative: 3.2%
+
+Positive words:
+Word: thankful            Occurences: 1
+Word: support             Occurences: 6
+Word: cherished           Occurences: 1
+Word: fair                Occurences: 3
+Word: flourishing         Occurences: 1
+Word: rich                Occurences: 1
+Word: affordable          Occurences: 1
+Word: great               Occurences: 8
+Word: advantage           Occurences: 3
+Word: love                Occurences: 2
+Word: encouraging         Occurences: 1
+Word: fairness            Occurences: 1
+Word: thank               Occurences: 5
+Word: effective           Occurences: 1
+Word: thriving            Occurences: 1
+Word: rightly             Occurences: 1
+Word: commend             Occurences: 1
+Word: powerful            Occurences: 2
+Word: clear               Occurences: 2
+Word: reclaim             Occurences: 1
+Word: significant         Occurences: 1
+Word: patriot             Occurences: 1
+Word: valuable            Occurences: 1
+Word: humane              Occurences: 1
+Word: strong              Occurences: 3
+Word: free                Occurences: 1
+Word: leading             Occurences: 2
+Word: holy                Occurences: 1
+Word: respect             Occurences: 5
+Word: compact             Occurences: 1
+Word: groundbreaking      Occurences: 1
+Word: progress            Occurences: 1
+Word: glory               Occurences: 1
+Word: freedom             Occurences: 3
+Word: breakthroughs       Occurences: 1
+Word: defeat              Occurences: 1
+Word: magnificent         Occurences: 1
+Word: incredible          Occurences: 2
+Word: wisdom              Occurences: 1
+Word: honor               Occurences: 3
+Word: courage             Occurences: 1
+Word: accomplished        Occurences: 1
+Word: proven              Occurences: 1
+Word: successfully        Occurences: 1
+Word: pleased             Occurences: 1
+Word: congratulate        Occurences: 1
+Word: encourage           Occurences: 1
+Word: windfall            Occurences: 1
+Word: richer              Occurences: 2
+Word: success             Occurences: 1
+Word: prize               Occurences: 1
+Word: pride               Occurences: 1
+Word: hopeful             Occurences: 2
+Word: affection           Occurences: 1
+Word: extraordinary       Occurences: 1
+Word: leads               Occurences: 1
+Word: advanced            Occurences: 1
+Word: wonderful           Occurences: 1
+Word: beautiful           Occurences: 2
+Word: booming             Occurences: 1
+Word: protect             Occurences: 1
+Word: reform              Occurences: 4
+Word: successful          Occurences: 1
+Word: protection          Occurences: 3
+Word: distinguished       Occurences: 1
+Word: welcome             Occurences: 1
+Word: faith               Occurences: 1
+Word: liberty             Occurences: 1
+Word: grace               Occurences: 1
+Word: abundant            Occurences: 1
+Word: ease                Occurences: 1
+Word: destiny             Occurences: 2
+Word: like                Occurences: 5
+Word: work                Occurences: 5
+Word: promise             Occurences: 1
+Word: best                Occurences: 1
+Word: compassionate       Occurences: 1
+Word: clean               Occurences: 1
+Word: supported           Occurences: 1
+Word: subsidize           Occurences: 1
+Word: celebrate           Occurences: 1
+Word: promised            Occurences: 1
+Word: peace               Occurences: 9
+Word: principled          Occurences: 1
+Word: loyalty             Occurences: 1
+Word: gain                Occurences: 1
+Word: grateful            Occurences: 1
+Word: ready               Occurences: 1
+Word: unlimited           Occurences: 1
+Word: prosperity          Occurences: 5
+Word: aspirations         Occurences: 1
+Word: better              Occurences: 5
+Word: good                Occurences: 2
+Word: openness            Occurences: 1
+Word: favor               Occurences: 1
+Word: awesome             Occurences: 1
+Word: bless               Occurences: 2
+Word: enrich              Occurences: 1
+Word: treasure            Occurences: 1
+Word: reforms             Occurences: 2
+Word: works               Occurences: 1
+Word: grand               Occurences: 1
+Word: interests           Occurences: 3
+Word: goodness            Occurences: 1
+Word: stability           Occurences: 2
+Word: brighter            Occurences: 1
+Word: stronger            Occurences: 1
+Word: majesty             Occurences: 1
+Word: productive          Occurences: 1
+Word: helped              Occurences: 1
+Word: dignity             Occurences: 1
+Word: passion             Occurences: 2
+Word: right               Occurences: 4
+Word: righteous           Occurences: 1
+Word: secure              Occurences: 1
+
+Negative words:
+Word: reject              Occurences: 2
+Word: hurts               Occurences: 1
+Word: crude               Occurences: 1
+Word: dire                Occurences: 1
+Word: decay               Occurences: 1
+Word: abused              Occurences: 1
+Word: imbalance           Occurences: 1
+Word: confront            Occurences: 1
+Word: fierce              Occurences: 1
+Word: dangerous           Occurences: 1
+Word: horrible            Occurences: 4
+Word: broken              Occurences: 1
+Word: dumping             Occurences: 1
+Word: deadly              Occurences: 1
+Word: toll                Occurences: 1
+Word: isolate             Occurences: 1
+Word: thirst              Occurences: 1
+Word: havoc               Occurences: 1
+Word: jobless             Occurences: 1
+Word: concerned           Occurences: 1
+Word: cruel               Occurences: 1
+Word: death               Occurences: 2
+Word: break               Occurences: 1
+Word: uncontrolled        Occurences: 1
+Word: corruption          Occurences: 1
+Word: heartbreaking       Occurences: 1
+Word: annihilation        Occurences: 1
+Word: brutal              Occurences: 2
+Word: threats             Occurences: 4
+Word: hostage             Occurences: 1
+Word: bloodthirsty        Occurences: 1
+Word: coercion            Occurences: 1
+Word: intimidation        Occurences: 1
+Word: outraged            Occurences: 1
+Word: warned              Occurences: 1
+Word: struggle            Occurences: 1
+Word: illegal             Occurences: 2
+Word: bloody              Occurences: 1
+Word: vulnerable          Occurences: 2
+Word: repressive          Occurences: 1
+Word: erase               Occurences: 1
+Word: interference        Occurences: 1
+Word: misery              Occurences: 1
+Word: dump                Occurences: 1
+Word: abuse               Occurences: 1
+Word: crime               Occurences: 1
+Word: extortion           Occurences: 1
+Word: plunder             Occurences: 1
+Word: extremism           Occurences: 1
+Word: violate             Occurences: 1
+Word: critical            Occurences: 1
+Word: terrorism           Occurences: 3
+Word: burns               Occurences: 1
+Word: unleash             Occurences: 1
+Word: oppression          Occurences: 1
+Word: forged              Occurences: 1
+Word: radical             Occurences: 1
+Word: intense             Occurences: 1
+Word: repression          Occurences: 1
+Word: struggling          Occurences: 1
+Word: bad                 Occurences: 1
+Word: fear                Occurences: 1
+Word: manipulate          Occurences: 1
+Word: bashing             Occurences: 1
+Word: relentless          Occurences: 1
+Word: embarrassment       Occurences: 1
+Word: cheated             Occurences: 1
+Word: aggression          Occurences: 2
+Word: harmed              Occurences: 1
+Word: destruction         Occurences: 1
+Word: anguish             Occurences: 1
+Word: burden              Occurences: 1
+Word: horrific            Occurences: 1
+Word: criminal            Occurences: 3
+Word: ruthless            Occurences: 1
+Word: egregious           Occurences: 1
+Word: worse               Occurences: 1
+Word: encroachment        Occurences: 1
+Word: vicious             Occurences: 1
+Word: slaughter           Occurences: 1
+Word: suffering           Occurences: 1
+Word: tragedy             Occurences: 2
+Word: deny                Occurences: 2
+Word: corrupt             Occurences: 1
+Word: lost                Occurences: 1
+Word: poverty             Occurences: 3
+Word: crisis              Occurences: 2
+Word: surrender           Occurences: 1
+Word: wrong               Occurences: 1
+Word: hard                Occurences: 1
+Word: despair             Occurences: 1
+Word: chaos               Occurences: 1
+Word: fallen              Occurences: 1
+Word: conflict            Occurences: 2
+
+Overall sentiment of headline: positive
+Positive words in the headline: 1
+Negative words in the headline: 0
