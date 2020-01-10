@@ -3,7 +3,6 @@ HOMEWORK 5: Trendlines & Algorithms
 
 NAME:  Jordan Jackson
 
-ESTIMATE OF # OF HOURS SPENT ON THIS ASSIGNMENT:  8 to 10 hours
 
 PROBLEM DEFINITION:
 
