@@ -3,8 +3,6 @@ HOMEWORK 4: Alternating Characters & Choose Your Own Adventures
 
 NAME:  Jordan Jackson
 
-ESTIMATE OF # OF HOURS SPENT ON THIS ASSIGNMENT:  20
-
 STORY NARRATIVE: 
 
 BEES ARE IMPORTANT TO THE SUSTAINABILITY OF AGRICULTURAL AND ECOLOGICAL SYSTEMS
@@ -101,10 +99,6 @@ text22 = Experiment Results: honeybee colonies chronically exposed to low levels
 Critique From Stakeholders: lacks relevancy to bee colonies in natural conditions
 q22 = q17
 
-MISC. COMMENTS TO GRADER:  
-The assignment sheet says, "Your program should work for words entered upper or lower case, and must use a single function is_alternating(word)." 
-
-I made that function, and then implemented it as AND of other functions. 
 
 
 
