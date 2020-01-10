@@ -2,8 +2,6 @@ HOMEWORK 8: Classes & Algorithms
 
 NAME:  Jordan Jackson
 
-ESTIMATE OF # OF HOURS SPENT ON THIS ASSIGNMENT:  12
-
 FREE RESPONSE:
 
 PART 1
@@ -122,15 +120,3 @@ They are just for identification purposes.
 For Part 1's Productivity Algorithm: I am assuming productivity does not influence
 hiring decisions or the requirements algorithm. Productivity ranking is based on
 the worker’s performance after they are hired.
-
-Part 1 files:
-    hw8Part1.py
-    worker.py
-    gender.py
-    race.py
-    positions.py
-    job.py
-
-Part 2 files: 
-    hw8Part2.py
-    hiringmanager.py
