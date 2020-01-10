@@ -2,12 +2,13 @@ HOMEWORK 7: Dictionaries & Cleaning Data
 
 NAME:  Jordan Jackson
 
-ESTIMATE OF # OF HOURS SPENT ON THIS ASSIGNMENT:  8
-
 FREE RESPONSE:
 
 Q1) 
-As you are cleaning your data, be sure to note down the decisions you’re making for yourREADME. What have you chosen to do with the data that doesn’t fit your program? Whydoesn’t it fit? How much have you altered the “original” dataset? What do these “dirty”elements of the dataset represent?
+As you are cleaning your data, be sure to note down the decisions you’re making for your
+README. What have you chosen to do with the data that doesn’t fit your program? Why
+doesn’t it fit? How much have you altered the “original” dataset? What do these “dirty”
+elements of the dataset represent?
 
 A1)
 'Cleaning' Values
@@ -89,7 +90,9 @@ A1)
 
 
 Q2) 
-At the top of your code, you should type out an explanation (approximately 250 words)about your chosen statistics, why you chose them, and some analysis about the results. We’llreward the extra credit based on what you’ve chosen.
+At the top of your code, you should type out an explanation (approximately 250 words)
+about your chosen statistics, why you chose them, and some analysis about the results. We’ll
+reward the extra credit based on what you’ve chosen.
 
 A2) 
 see top of user-statistics_interface.py' for my answer
@@ -179,12 +182,6 @@ In both cases of the Child Abuse dataset and the Bellevue Hospital datasets:
 
 MISC. COMMENTS TO GRADER:
  
-
-After I did the coding portion of the assignment, based on the homework assignment sheet, I was surprised 
-to find a lot more programming-based analyses were requested in the readme. It would have been preferable 
-to formally note these additional specific data analyses in the assignment sheet, then reflecting on our
-decisions and results in the readme. 
-
 I realize the title() method made some incorrect capitalization (e.g. it would capitalize first letter after an apostrophe), but I choose to leave it.
 
 I exported the Admittors and Site_Codes datasets from https://drive.google.com/open?id=0B0l93P9e8zrEbEdrS2pTRk91S0U as .tsv files.
