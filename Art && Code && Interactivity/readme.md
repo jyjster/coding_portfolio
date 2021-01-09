@@ -53,6 +53,8 @@ A published collection of all code poems completed by the students of Shawn Laws
 
 I designed and co-edited the publication with Boyuan Zheng. We  truncated the code to emphasize its poetic nature in analog form. We also modified the the output of each poem for translation from a digital (computer) to analog (physical book) and for visual appeal.
 
+https://issuu.com/jyster/docs/codepoetry_f19_aci_rpi
+
 https://github.com/jyjster/coding_portfolio/tree/master/Art%20%26%26%20Code%20%26%26%20Interactivity/Code_Poetry_Book_004
 
 [Created using Adobe Indesign.]
