@@ -5,7 +5,7 @@
 
 my final project for Fall 2021 DP1 course taught by Dennis Shelden
 
-simulates using backup batteries during electricity power outage to help people understand energy management and inform critical load plannin
+simulates using backup batteries during electricity power outage to help people understand energy management and inform critical load planning
 - web-based application
 - uses P5.js (Processing), Node.js, and Plotly.js
 
