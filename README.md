@@ -24,7 +24,7 @@ example projects:
 
 ## Art && Code && Interactivity 
 
-a collection of project work from Fall 2019 ACI course
+a collection of project work from Fall 2019 ACI course taught by Shawn Lawson
 
 stretching art and code through interactive experience artwork
 
