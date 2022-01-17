@@ -1,6 +1,15 @@
 # Jordany Y. Jackson | coding_portfolio
 
 
+## Design Programming 1
+
+my final project for Fall 2021 DP1 course taught by Dennis Shelden
+
+simulates using backup batteries during electricity power outage to help people understand energy management and inform critical load plannin
+- web-based application
+- uses P5.js (Processing), Node.js, and Plotly.js
+
+
 ## CompSci I & Humanities
 
 a collection of project work from Spring 2019 CS1 course and additional Humanities section/supplement
