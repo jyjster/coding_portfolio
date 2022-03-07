@@ -30,6 +30,6 @@ stretching art and code through interactive experience artwork
 
 example projects: 
 - soundscapes map
-- virtual graffiti wall
+- virtual video-controlled graffiti wall
 - code poetry
 
