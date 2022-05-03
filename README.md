@@ -4,7 +4,7 @@
 
 my final project for Spring 2022 DP2 course taught by Dennis Shelden
 
-simulates using backup batteries during electricity power outage to help people understand energy management and inform critical load planning
+simulates rooftop solar panel energy production for user-designed roofs in the U.S.
 
 - browser-based application with 3d graphics
 - connection to Google Geocoder API
