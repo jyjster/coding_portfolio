@@ -10,6 +10,8 @@ stretching art and code through interactive experience artwork
 
 ### Projects
 
+---
+
 #### 1. Graphics && Sound: Soundscape Map
 
 https://vimeo.com/383862736
@@ -22,6 +24,7 @@ https://github.com/jyjster/coding_portfolio/tree/master/Art%20%26%26%20Code%20%2
 
 [Language: C++ | Toolkit: open-source toolkit openFrameworks | IDE: Xcode]
 
+---
 
 #### 2. Camera: Virtual Graffiti Wall
 
