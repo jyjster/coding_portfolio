@@ -32,7 +32,7 @@ stretching art and code through interactive experience artwork
 
 - The canvas background resembles the southwest facade of EMPAC building at RPI. This background was chosen because of the current tensions among students and the RPI adminstration concerning student rights and freedom, control, surveillance, censorship, and protests.
 
-https://github.com/jyjster/coding_portfolio/tree/master/Art%20%26%26%20Code%20%26%26%20Interactivity/Camera_001
+[See my Virtual Graffiti Wall code](URL 'https://github.com/jyjster/coding_portfolio/tree/master/Art%20%26%26%20Code%20%26%26%20Interactivity/Camera_001')
 
 [Language: C++ | Toolkit: openFrameworks | IDE: Xcode]
 
@@ -48,7 +48,7 @@ What is a code poem?
 3. It must run -- is a valid computer program which produces a
 representation of itself when compiled and run
 
-https://github.com/jyjster/coding_portfolio/tree/master/Art%20%26%26%20Code%20%26%26%20Interactivity/Code_Poetry_003
+[See my Code Poem code](URL 'https://github.com/jyjster/coding_portfolio/tree/master/Art%20%26%26%20Code%20%26%26%20Interactivity/Code_Poetry_003')
 
 [Language: Python 3 | IDE: Wing 101]
 
@@ -60,7 +60,7 @@ https://github.com/jyjster/coding_portfolio/tree/master/Art%20%26%26%20Code%20%2
 
 https://issuu.com/jyster/docs/codepoetry_f19_aci_rpi
 
-https://github.com/jyjster/coding_portfolio/tree/master/Art%20%26%26%20Code%20%26%26%20Interactivity/Code_Poetry_Book_004
+[See Code Poetry Book on Github](URL 'https://github.com/jyjster/coding_portfolio/tree/master/Art%20%26%26%20Code%20%26%26%20Interactivity/Code_Poetry_Book_004')
 
 [Created using Adobe Indesign.]
 
