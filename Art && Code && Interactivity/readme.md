@@ -36,6 +36,7 @@ stretching art and code through interactive experience artwork
 
 [Language: C++ | Toolkit: openFrameworks | IDE: Xcode]
 
+---
 
 #### 3. Code Poetry: Life Changes
 
@@ -58,7 +59,7 @@ representation of itself when compiled and run
 
 - I designed and co-edited the publication with Boyuan Zheng. We  truncated the code to emphasize its poetic nature in analog form. We also modified the the output of each poem for translation from a digital (computer) to analog (physical book) and for visual appeal.
 
-https://issuu.com/jyster/docs/codepoetry_f19_aci_rpi
+[Flip through Code Poetry Book on Issue] (URL 'https://issuu.com/jyster/docs/codepoetry_f19_aci_rpi')
 
 [See Code Poetry Book on Github](URL 'https://github.com/jyjster/coding_portfolio/tree/master/Art%20%26%26%20Code%20%26%26%20Interactivity/Code_Poetry_Book_004')
 
