@@ -1,6 +1,6 @@
 ## Watch Application in action
 
-watch screen recording of Residential Battery Backup Management App
+watch demo of Residential Battery Backup Management App: <br>
 https://vimeo.com/666934646
 
 
