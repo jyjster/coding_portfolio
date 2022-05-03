@@ -4,7 +4,7 @@ collection of project work from Fall 2019 ACI course
 
 stretching art and code through interactive experience artwork
 
-![project_thumbnails](https://github.com/jyjster/coding_portfolio/blob/master/Design%20Programming%20I/2_project_page.png)
+![project_thumbnails](https://github.com/jyjster/coding_portfolio/blob/master/Art%20%26%26%20Code%20%26%26%20Interactivity/preview_images_lowres.jpg)
 
 ---
 
