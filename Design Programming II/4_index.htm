@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Solar Panel Calculator</title>
+  <script src="lib/three/build/three.min.js"></script>
+  <script src="lib/three/examples/js/controls/OrbitControls.js"></script>
+  <script src="lib/three/examples/js/loaders/OBJLoader.js"></script>
+  <script src="lib/three/examples/js/loaders/MTLLoader.js"></script>
+  <script src="lib/dat.gui.min.js"></script>
+  <script src="lib/r_utils3d.js"></script>
+  <link rel="stylesheet" type="text/css" href="style.css">
+
+  <script src="lib/tz/tz.js"></script>
+  <script src="lib/luxon.js"></script>
+  <script src="lib/suncalc/suncalc.js"></script>
+
+  <script src="https://cdn.plot.ly/plotly-2.6.3.min.js"></script>
+  <script
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDOXMQmRW09wHR1I2PXKo-nMH8_VWRC3gQ&libraries=geometry,places">
+    </script>
+
+  <script src="./src/script.js"></script>
+
+</head>
+
+<body onload="setup();">
+
+  <canvas id="c"></canvas>
+
+  <!-- Tab links -->
+  <div class="tab">
+    <button class="tablinks" onclick="openTab(event, 'Setup')">Setup</button>
+    <button class="tablinks" onclick="openTab(event, 'Simulation')">Simulation</button>
+  </div>
+
+  <!-- Tab content -->
+  <div id="Setup" class="tabcontent">
+
+    <div id="controls">
+
+      <h3> Setup </h3>
+
+      <h4>DESIGN ROOF</h4>
+
+      Ridge Length <input type="number" placeholder="feet" style="width: 50px" min="10" max="90" id="ridge_length"> x
+      Width
+      <input type="number" placeholder="feet" style="width: 50px" min="5" max="90" id="roof_width">
+
+      <button type="button" onclick="setRoofDimensions(); onRefreshGeometry()">Set Dimensions</button>
+
+      <br><br>
+
+      <input type="range" id="slope" min="0" max="90" value=25
+        onchange="slope_degrees = this.value; onSlopePicker(); onRefreshGeometry()">
+      <div id="slope_output" style="display: inline-block">roof pitch angle </div>
+
+      <br><br>
+
+      <input type="range" id="orientation" min="0" max="180" value=0
+        onchange="roof_orientation_deg = this.value; onOrientationPicker();onRefreshGeometry()">
+
+      <div id="orient_output" style="display: inline-block">roof orientation (counterclockwise) </div>
+
+      <div id="orient_output_2" style="display: inline-block; color:blue"> </div>
+
+      <br> <br>
+
+      <div>
+        choose panel type
+        <br>
+        <input type="radio" name="panel_type" id="residential" value="Residential" checked
+          onchange="panel['type'] = this.value; onRefreshGeometry()">
+        <label for="residential">Residential Panel</label><br>
+        <input type="radio" name="panel_type" id="commercial" value="Commercial"
+          onchange="panel['type'] = this.value; onRefreshGeometry()">
+        <label for="commercial">Commercial Panel</label><br>
+      </div>
+
+      <h4>ANALYSIS INPUTS</h4>
+
+      <input type="number" placeholder="Zip Code " id="zipcode">
+      <button type="button" onclick="getInputLocation()">Set location</button>
+      <br> <br>
+
+      select start date
+      <input type="date" id="start_date" onchange="start_date = this.value; onRefreshGeometry()">
+      <br> <br>
+      <label for="time">select a time</label>
+      <input type="time" id="time" name="time" onchange="start_time = this.value; onRefreshGeometry()">
+      <input type="button" value="next hour" onclick="advance_hour()">
+
+    </div>
+  </div>
+
+  <div id="Simulation" class="tabcontent">
+
+    <h3>Simulation</h3>
+
+    <button type="button" onclick="runAnnualSimulation()">Simulate for 1 Year</button> (takes about 10 secs to run)
+
+    <br> <br>
+
+    <div id='annual_left_DIV' style="display: inline-block;color:rgb(114, 116, 120)"> </div>
+    <div id='annual_right_DIV' style="display: inline-block; color: rgb(136, 101, 15)"> </div>
+  
+    <div id='bar_chart_DIV' class=GraphStyle style='width:500px'>
+
+    </div>
+
+  </div>
+
+</body>
+
+</html>
