@@ -8,7 +8,7 @@ upcoming / in-progress
 - Three.js
 - C# and Visual Studio
 
-## Design Programming 1
+## Design Programming 1: Energy Use on Stored Power
 
 my final project for Fall 2021 DP1 course taught by Dennis Shelden
 
