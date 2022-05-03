@@ -18,7 +18,7 @@ simulates using backup batteries during electricity power outage to help people 
 - Java, Javascript, HTML, CSS
 
 
-## CompSci I & Humanities
+## CompSci I
 
 a collection of project work from Spring 2019 CS1 course and additional Humanities section/supplement
 
