@@ -2,19 +2,15 @@
 
 ## Design Programming 2: Rooftop Solar Panel Energy Generation
 
-upcoming / in-progress
-
-- Rhino Common and Grasshopper scripts
-- Three.js
-- C# and Visual Studio
-
 my final project for Spring 2022 DP2 course taught by Dennis Shelden
 
 simulates using backup batteries during electricity power outage to help people understand energy management and inform critical load planning
 
-browser-based application with 3d graphics, connection to Google Geocoder API,, and external library integrations (SunCalc, Luxon DateTime, and Dark Sky's tz-lookup)
-uses Three.js, Node.js, and Plotly.js
-Javascript, HTML, CSS
+- browser-based application with 3d graphics
+- connection to Google Geocoder API
+- external library integrations (SunCalc, Luxon DateTime, and Dark Sky's tz-lookup)
+- uses Three.js, Node.js, and Plotly.js
+- Javascript, HTML, CSS
 
 ## Design Programming 1: Energy Use on Stored Power
 
