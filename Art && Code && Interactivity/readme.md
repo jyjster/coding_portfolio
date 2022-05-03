@@ -12,7 +12,10 @@ stretching art and code through interactive experience artwork
 
 #### 1. Graphics && Sound: Soundscape Map
 
+
 [https://vimeo.com/383862736](URL 'Link to demo video')
+
+[link to demo video](URL 'https://vimeo.com/383862736')
 
 - I created a digital map of the soundscapes of the Poestenskill Canal and Hudson River located in South Troy and South Central Troy, NY. 
 
