@@ -12,16 +12,13 @@ stretching art and code through interactive experience artwork
 
 #### 1. Graphics && Sound: Soundscape Map
 
-
-[https://vimeo.com/383862736](URL 'Link to demo video')
-
-[link to demo video](URL 'https://vimeo.com/383862736')
+[Link to demo video](URL 'https://vimeo.com/383862736')
 
 - I created a digital map of the soundscapes of the Poestenskill Canal and Hudson River located in South Troy and South Central Troy, NY. 
 
 - By capturing and sharing sounds in theese spaces, this project aims to enage people in such public spaces, which are inaccessible to and disconnected from surrounding communtiies and don't feel very "public" at all.
 
-[https://github.com/jyjster/coding_portfolio/tree/master/Art%20%26%26%20Code%20%26%26%20Interactivity/Graphics_Sound_002](URL 'See my Soundscape Map code')
+[See my Soundscape Map code](URL 'https://github.com/jyjster/coding_portfolio/tree/master/Art%20%26%26%20Code%20%26%26%20Interactivity/Graphics_Sound_002')
 
 [Language: C++ | Toolkit: open-source toolkit openFrameworks | IDE: Xcode]
 
