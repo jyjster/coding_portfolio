@@ -1,6 +1,6 @@
 # Jordany Y. Jackson | coding_portfolio
 
-## Design Programming 2
+## Design Programming 2: Rooftop Solar Panel Energy Generation
 
 upcoming / in-progress
 
