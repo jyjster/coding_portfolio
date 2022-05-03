@@ -11,5 +11,5 @@ program files:
 
 ---
 
-![overview_app_screenshot_1](https://github.com/jyjster/coding_portfolio/blob/master/Design%20Programming%20II/overview_1_web.jpg)
-![overview_app_screenshot_1](https://github.com/jyjster/coding_portfolio/blob/master/Design%20Programming%20II/overview_2_web.jpg)
+![overview_app_screenshot_1](https://github.com/jyjster/coding_portfolio/blob/master/Design%20Programming%20II/1_overview_lowres.jpg)
+![overview_app_screenshot_2](https://github.com/jyjster/coding_portfolio/blob/master/Design%20Programming%20II/2_overview_lowres.jpg)
