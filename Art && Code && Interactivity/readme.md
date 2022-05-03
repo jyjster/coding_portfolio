@@ -10,9 +10,9 @@ stretching art and code through interactive experience artwork
 
 https://vimeo.com/383862736
 
-I created a digital map of the soundscapes of the Poestenskill Canal and Hudson River located in South Troy and South Central Troy, NY. 
+- I created a digital map of the soundscapes of the Poestenskill Canal and Hudson River located in South Troy and South Central Troy, NY. 
 
-By capturing and sharing sounds in theese spaces, this project aims to enage people in such public spaces, which are inaccessible to and disconnected from surrounding communtiies and don't feel very "public" at all.
+- By capturing and sharing sounds in theese spaces, this project aims to enage people in such public spaces, which are inaccessible to and disconnected from surrounding communtiies and don't feel very "public" at all.
 
 https://github.com/jyjster/coding_portfolio/tree/master/Art%20%26%26%20Code%20%26%26%20Interactivity/Graphics_Sound_002
 
@@ -21,11 +21,11 @@ https://github.com/jyjster/coding_portfolio/tree/master/Art%20%26%26%20Code%20%2
 
 #### 2. Camera: Virtual Graffiti Wall
 
-I created a virtual graffiti wall. This interactive experience artwork creates graffiti art using a computer vision system and color tracking.
+- I created a virtual graffiti wall. This interactive experience artwork creates graffiti art using a computer vision system and color tracking.
 
-By tracking the top of a water bottle representing a spray pain can and using a wireless mouse to switch between cursor/selection and painting modes, participants express their own artistic creations.
+- By tracking the top of a water bottle representing a spray pain can and using a wireless mouse to switch between cursor/selection and painting modes, participants express their own artistic creations.
 
-The canvas background resembles the southwest facade of EMPAC building at RPI. This background was chosen because of the current tensions among students and the RPI adminstration concerning student rights and freedom, control, surveillance, censorship, and protests.
+- The canvas background resembles the southwest facade of EMPAC building at RPI. This background was chosen because of the current tensions among students and the RPI adminstration concerning student rights and freedom, control, surveillance, censorship, and protests.
 
 https://github.com/jyjster/coding_portfolio/tree/master/Art%20%26%26%20Code%20%26%26%20Interactivity/Camera_001
 
@@ -35,7 +35,7 @@ https://github.com/jyjster/coding_portfolio/tree/master/Art%20%26%26%20Code%20%2
 #### 3. Code Poetry: Life Changes
 
 
-I wrote a poem in Python titled life_changes about the chaos theory in relation to changes in one's lifetime. When executed, code generates an unique fractal tree.
+- I wrote a poem in Python titled life_changes about the chaos theory in relation to changes in one's lifetime. When executed, code generates an unique fractal tree.
 
 What is a code poem?
 1. It must be "code"
@@ -49,9 +49,9 @@ https://github.com/jyjster/coding_portfolio/tree/master/Art%20%26%26%20Code%20%2
 
 #### 4. Code Poetry Book : 54-page Publication
 
-A published collection of all code poems completed by the students of Shawn Lawson's Art && Code && Interactivity Fall 2019 course at Rensselaer Polytechnic Institute.
+- A published collection of all code poems completed by the students of Shawn Lawson's Art && Code && Interactivity Fall 2019 course at Rensselaer Polytechnic Institute.
 
-I designed and co-edited the publication with Boyuan Zheng. We  truncated the code to emphasize its poetic nature in analog form. We also modified the the output of each poem for translation from a digital (computer) to analog (physical book) and for visual appeal.
+- I designed and co-edited the publication with Boyuan Zheng. We  truncated the code to emphasize its poetic nature in analog form. We also modified the the output of each poem for translation from a digital (computer) to analog (physical book) and for visual appeal.
 
 https://issuu.com/jyster/docs/codepoetry_f19_aci_rpi
 
