@@ -1,6 +1,6 @@
 ## Watch Application in action
 
-watch screen recording of Rooftop Solar Panel Energy Estimator App:  <br> 
+watch demo of Rooftop Solar Panel Energy Estimator App:  <br> 
 https://vimeo.com/705890380
 
 ---
