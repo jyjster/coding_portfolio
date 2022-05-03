@@ -12,7 +12,7 @@ stretching art and code through interactive experience artwork
 
 #### 1. Graphics && Sound: Soundscape Map
 
-[Link to demo video](URL 'https://vimeo.com/383862736')
+[Watch demo video](URL 'https://vimeo.com/383862736')
 
 - I created a digital map of the soundscapes of the Poestenskill Canal and Hudson River located in South Troy and South Central Troy, NY. 
 
@@ -59,9 +59,9 @@ representation of itself when compiled and run
 
 - I designed and co-edited the publication with Boyuan Zheng. We  truncated the code to emphasize its poetic nature in analog form. We also modified the the output of each poem for translation from a digital (computer) to analog (physical book) and for visual appeal.
 
-[Flip through Code Poetry Book on Issue] (URL 'https://issuu.com/jyster/docs/codepoetry_f19_aci_rpi')
+[Flip through Code Poetry Book on Issue](URL 'https://issuu.com/jyster/docs/codepoetry_f19_aci_rpi')
 
-[See Code Poetry Book on Github](URL 'https://github.com/jyjster/coding_portfolio/tree/master/Art%20%26%26%20Code%20%26%26%20Interactivity/Code_Poetry_Book_004')
+[Code Poetry Book on Github](URL 'https://github.com/jyjster/coding_portfolio/tree/master/Art%20%26%26%20Code%20%26%26%20Interactivity/Code_Poetry_Book_004')
 
 [Created using Adobe Indesign.]
 
