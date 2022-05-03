@@ -49,7 +49,7 @@ What is a code poem?
 3. It must run -- is a valid computer program which produces a
 representation of itself when compiled and run
 
-[See my Code Poem code](URL 'https://github.com/jyjster/coding_portfolio/tree/master/Art%20%26%26%20Code%20%26%26%20Interactivity/Code_Poetry_003')
+Code: https://github.com/jyjster/coding_portfolio/tree/master/Art%20%26%26%20Code%20%26%26%20Interactivity/Code_Poetry_003
 
 [Language: Python 3 | IDE: Wing 101]
 
@@ -59,9 +59,9 @@ representation of itself when compiled and run
 
 - I designed and co-edited the publication with Boyuan Zheng. We  truncated the code to emphasize its poetic nature in analog form. We also modified the the output of each poem for translation from a digital (computer) to analog (physical book) and for visual appeal.
 
-[Flip through Code Poetry Book on Issue](URL 'https://issuu.com/jyster/docs/codepoetry_f19_aci_rpi')
+https://issuu.com/jyster/docs/codepoetry_f19_aci_rpi
 
-[Code Poetry Book on Github](URL 'https://github.com/jyjster/coding_portfolio/tree/master/Art%20%26%26%20Code%20%26%26%20Interactivity/Code_Poetry_Book_004')
+https://github.com/jyjster/coding_portfolio/tree/master/Art%20%26%26%20Code%20%26%26%20Interactivity/Code_Poetry_Book_004
 
 [Created using Adobe Indesign.]
 
