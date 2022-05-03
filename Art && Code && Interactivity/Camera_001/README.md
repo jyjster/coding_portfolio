@@ -1,11 +1,7 @@
 # CameraProj-Finished
 
-Please see branch: merged
+![installation diagram](https://github.com/jyjster/coding_portfolio/blob/master/Art%20%26%26%20Code%20%26%26%20Interactivity/Camera_001/install_diagram.jpg)
+
 Xcode Profile File: proj3-final.xcodeproj
 
-I do not know how to do a .gitignore file!
-
-Installation diagram
-  1)   install_diagram.jpg
-  2)   install_diagram_withsources.jpg
 
