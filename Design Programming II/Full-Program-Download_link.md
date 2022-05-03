@@ -2,6 +2,8 @@
 
 download includes includes Node.js modules, Three.js, Vladimir Agafonkin's SunCalc , Dark Sky's tz-lookup, and Luxon's DateTime libraries
 
+---
+
 Sample Steps to Run:
 1. Unzip the file, then open in Visual Studio Code
 2. Within VS Code, open a terminal (Terminal > New Terminal)
