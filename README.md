@@ -1,6 +1,6 @@
 # Jordany Y. Jackson | coding_portfolio
 
-![Design Progrmaming 1 & 2 Project Preview Images](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Design Progrmaming 1 & 2 Project Preview Images](https://github.com/jyjster/coding_portfolio/blob/master/Design%20Programming%20II/preview_lowres.jpg)
 
 ## Design Programming 2: Rooftop Solar Panel Energy Generation
 
