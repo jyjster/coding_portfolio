@@ -1,5 +1,7 @@
 # Jordany Y. Jackson | coding_portfolio
 
+![Design Progrmaming 1 & 2 Project Preview Images](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+
 ## Design Programming 2: Rooftop Solar Panel Energy Generation
 
 my final project for Spring 2022 DP2 course taught by Dennis Shelden
